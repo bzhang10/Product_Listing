@@ -1,0 +1,1528 @@
+{
+
+    "categoryName": "New",
+    "categoryCode": "10008",
+    "currentQuery": {
+        "query": {
+            "value": ":relevance"
+        },
+        "url": "/Categories/Women/New-Arrivals/c/10008?q=%3Arelevance"
+    },
+    "freeTextSearch": "",
+    "results": [
+        {
+            "productId": "WS7D315658_816",
+            "productName": "Peasant Dress",
+            "productPrice": 39,
+            "productStyle": "WS7D315658",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315658/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315658/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7D315658/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315658/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315658/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315658/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7D315625_816",
+            "productName": "Floral Print Shirt Dress",
+            "productPrice": 39,
+            "productStyle": "WS7D315625",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315625/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315625/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7D315625/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315625/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315625/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315625/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7R365412_816",
+            "productName": "Shawl Collar Cardi",
+            "productPrice": 39,
+            "productStyle": "WS7R365412",
+            "productBadgeString": "SALE",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365412/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365412/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R365412/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365412/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365412/Grey/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365412/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7O105455_001",
+            "productName": "Barn Jacket",
+            "productPrice": 69,
+            "productStyle": "WS7O105455",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7O105455/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7O105455/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7O105455/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7O105455/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7O105455/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7O105455/Dark+Lilac/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7T275507_001",
+            "productName": "Box Pleat Skirt",
+            "productPrice": 34,
+            "productStyle": "WS7T275507",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275507/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T275507/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7T275507/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T275507/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7O105473_001",
+            "productName": "Long Jacket",
+            "productPrice": 89,
+            "productStyle": "WS7O105473",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7O105473/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7O105473/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7O105473/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7O105473/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7D315658_100",
+            "productName": "Peasant Dress",
+            "productPrice": 39,
+            "productStyle": "WS7D315658",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315658/White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315658/White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7D315658/White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315658/White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315658/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315658/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7R335405_102",
+            "productName": "Crew Neck Sweater",
+            "productPrice": 29,
+            "productStyle": "WS7R335405",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Off White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Off+White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Off+White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R335405/Off+White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Off+White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Off+White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Blue+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Navy+Mix/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7F505050_001",
+            "productName": "Dress Pump",
+            "productPrice": 49,
+            "productStyle": "WS7F505050",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505050/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505050/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505050/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505050/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7D315625_001",
+            "productName": "Floral Print Shirt Dress",
+            "productPrice": 39,
+            "productStyle": "WS7D315625",
+            "productBadgeString": "SALE",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315625/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315625/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7D315625/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315625/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315625/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315625/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7C490059_400",
+            "productName": "Stripe Border Scarf",
+            "productPrice": 16,
+            "productStyle": "WS7C490059",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490059/Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490059/Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7C490059/Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490059/Blue/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7T285473_001",
+            "productName": "Faux Leather Skirt",
+            "productPrice": 49,
+            "productStyle": "WS7T285473",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T285473/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T285473/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7T285473/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T285473/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7R365424_001",
+            "productName": "V-neck Cardi",
+            "productPrice": 39,
+            "productStyle": "WS7R365424",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365424/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365424/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R365424/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365424/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365424/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365424/Grey+Mix/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7K205992_816",
+            "productName": "Print Tee",
+            "productPrice": 16,
+            "productStyle": "WS7K205992",
+            "productBadgeString": "SALE",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K205992/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K205992/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K205992/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K205992/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K205992/Light+Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K205992/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7D315626_450",
+            "productName": "Denim Shirt Dress",
+            "productPrice": 39,
+            "productStyle": "WS7D315626",
+            "productBadgeString": "SALE",
+            "productColor": "Dark Rinse",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D315626/Dark+Rinse/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315626/Dark+Rinse/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7D315626/Dark+Rinse/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D315626/Dark+Rinse/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7K195993_100",
+            "productName": "Essential Print Tee",
+            "productPrice": 16,
+            "productStyle": "WS7K195993",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195993/White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195993/White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K195993/White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195993/White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195993/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195993/White+3/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195993/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7K205992_013",
+            "productName": "Print Tee",
+            "productPrice": 16,
+            "productStyle": "WS7K205992",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Light Grey Mix",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K205992/Light+Grey+Mix/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K205992/Light+Grey+Mix/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K205992/Light+Grey+Mix/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K205992/Light+Grey+Mix/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K205992/Light+Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K205992/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7F505051_400",
+            "productName": "Bow Flat",
+            "productPrice": 19,
+            "productStyle": "WS7F505051",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505051/Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505051/Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505051/Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505051/Blue/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7R335405_586",
+            "productName": "Crew Neck Sweater",
+            "productPrice": 29,
+            "productStyle": "WS7R335405",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Navy Mix",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Navy+Mix/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Navy+Mix/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R335405/Navy+Mix/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Navy+Mix/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Off+White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Blue+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Navy+Mix/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7K196102_100",
+            "productName": "Stripe V-Neck Tee",
+            "productPrice": 29,
+            "productStyle": "WS7K196102",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K196102/White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K196102/White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K196102/White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K196102/White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K196102/Dark+Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K196102/White/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7C490020_102",
+            "productName": "Stripe Knit Scarf",
+            "productPrice": 29,
+            "productStyle": "WS7C490020",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "Off White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490020/Off+White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490020/Off+White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7C490020/Off+White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490020/Off+White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490020/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490020/Off+White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490020/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W225727_456",
+            "productName": "Popover Shirt",
+            "productPrice": 29,
+            "productStyle": "WS7W225727",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Medium Wash",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225727/Medium+Wash/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225727/Medium+Wash/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W225727/Medium+Wash/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225727/Medium+Wash/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WC17BT2208_001",
+            "productName": "Essential Legging",
+            "productPrice": 14,
+            "productStyle": "WC17BT2208",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WC17BT2208/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC17BT2208/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WC17BT2208/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC17BT2208/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7B185658_001",
+            "productName": "Ponte Legging",
+            "productPrice": 29,
+            "productStyle": "WS7B185658",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B185658/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B185658/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7B185658/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B185658/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B185658/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B185658/Dark+Grey+Mix/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7D305631_001",
+            "productName": "V-Neck Wrap Dress",
+            "productPrice": 34,
+            "productStyle": "WS7D305631",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D305631/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D305631/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7D305631/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D305631/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7D305766_001",
+            "productName": "Ponte Dress",
+            "productPrice": 49,
+            "productStyle": "WS7D305766",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7D305766/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D305766/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7D305766/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7D305766/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7C490013_001",
+            "productName": "Wide Brim Fedora",
+            "productPrice": 29,
+            "productStyle": "WS7C490013",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490013/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490013/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7C490013/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490013/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7K200031_100",
+            "productName": "Cap Sleeve Tee",
+            "productPrice": 24,
+            "productStyle": "WS7K200031",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K200031/White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K200031/White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K200031/White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K200031/White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K200031/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K200031/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K200031/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W225729_191",
+            "productName": "Silk Peasant Blouse",
+            "productPrice": 59,
+            "productStyle": "WS7W225729",
+            "productBadgeString": "SALE",
+            "productColor": "White 2",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225729/White+2/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225729/White+2/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W225729/White+2/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225729/White+2/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225729/White+2/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225729/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7F505026_237",
+            "productName": "Ballet Flats",
+            "productPrice": 19,
+            "productStyle": "WS7F505026",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Gold",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505026/Gold/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505026/Gold/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505026/Gold/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505026/Gold/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505026/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505026/Gold/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7J115445_455",
+            "productName": "Dark Denim Jacket",
+            "productPrice": 49,
+            "productStyle": "WS7J115445",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Dark Wash",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7J115445/Dark+Wash/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7J115445/Dark+Wash/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7J115445/Dark+Wash/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7J115445/Dark+Wash/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7K190016_001",
+            "productName": "Draped Cardi",
+            "productPrice": 26,
+            "productStyle": "WS7K190016",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K190016/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K190016/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K190016/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K190016/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K190016/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K190016/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7B145664_001",
+            "productName": "Seam Front Pant",
+            "productPrice": 39,
+            "productStyle": "WS7B145664",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B145664/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B145664/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7B145664/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B145664/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B145664/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B145664/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7R365412_006",
+            "productName": "Shawl Collar Cardi",
+            "productPrice": 39,
+            "productStyle": "WS7R365412",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Grey",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365412/Grey/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365412/Grey/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R365412/Grey/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365412/Grey/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365412/Grey/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365412/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WC7B165520_450",
+            "productName": "Slim Fit Raw Jean",
+            "productPrice": 39,
+            "productStyle": "WC7B165520",
+            "productBadgeString": "SALE",
+            "productColor": "Dark Rinse",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7B165520/Dark+Rinse/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B165520/Dark+Rinse/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WC7B165520/Dark+Rinse/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B165520/Dark+Rinse/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7W245722_001",
+            "productName": "Sleeveless Blouse",
+            "productPrice": 29,
+            "productStyle": "WS7W245722",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W245722/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W245722/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W245722/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W245722/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W245722/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W245722/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7O105435_006",
+            "productName": "Essential Hooded Jacket",
+            "productPrice": 89,
+            "productStyle": "WS7O105435",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "Grey",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7O105435/Grey/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7O105435/Grey/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7O105435/Grey/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7O105435/Grey/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7F505044_001",
+            "productName": "Ankle Boot",
+            "productPrice": 59,
+            "productStyle": "WS7F505044",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505044/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505044/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505044/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505044/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505044/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505044/Tan/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WC7B165523_450",
+            "productName": "Dark Slim Fit Jean",
+            "productPrice": 34,
+            "productStyle": "WC7B165523",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Dark Rinse",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7B165523/Dark+Rinse/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B165523/Dark+Rinse/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WC7B165523/Dark+Rinse/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B165523/Dark+Rinse/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7B144006_401",
+            "productName": "All Over Print Yoga Active Pant",
+            "productPrice": 14,
+            "productStyle": "WS7B144006",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Dark Blue Mix",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B144006/Dark+Blue+Mix/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B144006/Dark+Blue+Mix/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7B144006/Dark+Blue+Mix/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B144006/Dark+Blue+Mix/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B144006/Dark+Blue+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B144006/Blue+Grey/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7R365408_816",
+            "productName": "Contrast Cardi",
+            "productPrice": 39,
+            "productStyle": "WS7R365408",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365408/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365408/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R365408/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365408/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365408/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365408/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W235684_001",
+            "productName": "Pleat Tank",
+            "productPrice": 29,
+            "productStyle": "WS7W235684",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235684/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235684/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W235684/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235684/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7F505027_001",
+            "productName": "Pointed Toe Flat",
+            "productPrice": 24,
+            "productStyle": "WS7F505027",
+            "productBadgeString": "SALE",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505027/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505027/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505027/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505027/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505027/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505027/Off+White/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7K195957_001",
+            "productName": "Peplum Top",
+            "productPrice": 29,
+            "productStyle": "WS7K195957",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195957/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K195957/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195957/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/Dusty+Blue/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/Light+Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WC7B160004_001",
+            "productName": "Denim Jegging",
+            "productPrice": 34,
+            "productStyle": "WC7B160004",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7B160004/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B160004/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WC7B160004/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B160004/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7C490086_141",
+            "productName": "Infinity Scarf",
+            "productPrice": 12,
+            "productStyle": "WS7C490086",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Lilac",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490086/Lilac/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490086/Lilac/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7C490086/Lilac/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490086/Lilac/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490086/Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490086/Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490086/Dark+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7B144006_525",
+            "productName": "All Over Print Yoga Active Pant",
+            "productPrice": 14,
+            "productStyle": "WS7B144006",
+            "productBadgeString": "SALE",
+            "productColor": "Blue Grey",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B144006/Blue+Grey/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B144006/Blue+Grey/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7B144006/Blue+Grey/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B144006/Blue+Grey/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B144006/Dark+Blue+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B144006/Blue+Grey/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W225724_001",
+            "productName": "Print Popover",
+            "productPrice": 34,
+            "productStyle": "WS7W225724",
+            "productBadgeString": "SALE",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225724/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225724/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W225724/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225724/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225724/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225724/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WC17BT2209_010",
+            "productName": "Stretch Legging",
+            "productPrice": 14,
+            "productStyle": "WC17BT2209",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Charcoal Mix",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WC17BT2209/Charcoal+Mix/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC17BT2209/Charcoal+Mix/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WC17BT2209/Charcoal+Mix/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC17BT2209/Charcoal+Mix/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7K200029_531",
+            "productName": "Essential V-Neck Tee",
+            "productPrice": 19,
+            "productStyle": "WS7K200029",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Light Lilac",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K200029/Light+Lilac/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K200029/Light+Lilac/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K200029/Light+Lilac/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K200029/Light+Lilac/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K200029/Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K200029/Light+Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K200029/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7F505047_001",
+            "productName": "Ankle Rain Boot",
+            "productPrice": 29,
+            "productStyle": "WS7F505047",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505047/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505047/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505047/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505047/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7T275482_001",
+            "productName": "Knit Skirt",
+            "productPrice": 29,
+            "productStyle": "WS7T275482",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T275482/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7T275482/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T275482/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/Dark+Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7K195999_001",
+            "productName": "Kimono Cardi",
+            "productPrice": 49,
+            "productStyle": "WS7K195999",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195999/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195999/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K195999/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195999/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195999/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195999/Navy+Mix/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W235706_100",
+            "productName": "Ruffle Sleeve Blouse",
+            "productPrice": 29,
+            "productStyle": "WS7W235706",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235706/White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235706/White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W235706/White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235706/White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235706/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235706/White/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7R335405_531",
+            "productName": "Crew Neck Sweater",
+            "productPrice": 29,
+            "productStyle": "WS7R335405",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Light Lilac",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Lilac/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Light+Lilac/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R335405/Light+Lilac/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Light+Lilac/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Off+White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Blue+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Navy+Mix/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W235735_191",
+            "productName": "V-Neck Silk Top",
+            "productPrice": 49,
+            "productStyle": "WS7W235735",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "White 2",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235735/White+2/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235735/White+2/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W235735/White+2/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235735/White+2/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235735/White+2/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235735/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W225685_001",
+            "productName": "Mandarin Collar Top",
+            "productPrice": 34,
+            "productStyle": "WS7W225685",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225685/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225685/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W225685/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225685/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7K195969_816",
+            "productName": "Double Peplum Top",
+            "productPrice": 34,
+            "productStyle": "WS7K195969",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195969/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195969/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K195969/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195969/JF+Midnight+Blue/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7W225801_816",
+            "productName": "Silk Button Down Blouse",
+            "productPrice": 59,
+            "productStyle": "WS7W225801",
+            "productBadgeString": "SALE",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225801/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225801/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W225801/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225801/JF+Midnight+Blue/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7O115463_008",
+            "productName": "Puffer Vest",
+            "productPrice": 49,
+            "productStyle": "WS7O115463",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Grey Mix",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7O115463/Grey+Mix/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7O115463/Grey+Mix/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7O115463/Grey+Mix/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7O115463/Grey+Mix/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7C490084_400",
+            "productName": "Cape Shawl",
+            "productPrice": 34,
+            "productStyle": "WS7C490084",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490084/Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490084/Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7C490084/Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490084/Blue/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WC7B165519_455",
+            "productName": "Slim Fit Dark Wash Jean",
+            "productPrice": 39,
+            "productStyle": "WC7B165519",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Dark Wash",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7B165519/Dark+Wash/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B165519/Dark+Wash/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WC7B165519/Dark+Wash/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B165519/Dark+Wash/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7T275482_816",
+            "productName": "Knit Skirt",
+            "productPrice": 29,
+            "productStyle": "WS7T275482",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T275482/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7T275482/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T275482/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/Dark+Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7K195970_816",
+            "productName": "Stripe Tunic",
+            "productPrice": 29,
+            "productStyle": "WS7K195970",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195970/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195970/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K195970/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195970/JF+Midnight+Blue/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7R335405_008",
+            "productName": "Crew Neck Sweater",
+            "productPrice": 29,
+            "productStyle": "WS7R335405",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Grey Mix",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Grey+Mix/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Grey+Mix/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R335405/Grey+Mix/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Grey+Mix/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Off+White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Blue+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Navy+Mix/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WC7K205976_001",
+            "productName": "Boyfriend Tee",
+            "productPrice": 16,
+            "productStyle": "WC7K205976",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205976/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7K205976/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WC7K205976/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7K205976/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205976/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205976/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205976/Light+Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205976/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7F505027_102",
+            "productName": "Pointed Toe Flat",
+            "productPrice": 24,
+            "productStyle": "WS7F505027",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Off White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505027/Off+White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505027/Off+White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505027/Off+White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505027/Off+White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505027/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505027/Off+White/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7B165777_450",
+            "productName": "Dark Rinse Jegging",
+            "productPrice": 39,
+            "productStyle": "WS7B165777",
+            "productBadgeString": "SALE",
+            "productColor": "Dark Rinse",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B165777/Dark+Rinse/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B165777/Dark+Rinse/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7B165777/Dark+Rinse/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B165777/Dark+Rinse/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7W235723_100",
+            "productName": "Floral Print Tank",
+            "productPrice": 29,
+            "productStyle": "WS7W235723",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235723/White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235723/White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W235723/White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235723/White/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7J115474_816",
+            "productName": "Crop Jacket",
+            "productPrice": 69,
+            "productStyle": "WS7J115474",
+            "productBadgeString": "SALE",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7J115474/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7J115474/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7J115474/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7J115474/JF+Midnight+Blue/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7F505026_001",
+            "productName": "Ballet Flats",
+            "productPrice": 19,
+            "productStyle": "WS7F505026",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505026/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505026/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505026/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505026/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505026/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505026/Gold/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W225687_100",
+            "productName": "Button Down Shirt",
+            "productPrice": 29,
+            "productStyle": "WS7W225687",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225687/White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225687/White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W225687/White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225687/White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225687/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225687/Light+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7C490016_816",
+            "productName": "Floral Scarf",
+            "productPrice": 16,
+            "productStyle": "WS7C490016",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490016/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490016/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7C490016/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490016/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490016/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490016/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490016/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W235706_001",
+            "productName": "Ruffle Sleeve Blouse",
+            "productPrice": 29,
+            "productStyle": "WS7W235706",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235706/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235706/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W235706/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W235706/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235706/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W235706/White/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W225687_405",
+            "productName": "Button Down Shirt",
+            "productPrice": 29,
+            "productStyle": "WS7W225687",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Light Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225687/Light+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225687/Light+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W225687/Light+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225687/Light+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225687/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225687/Light+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WC7B165522_450",
+            "productName": "Dark Jegging",
+            "productPrice": 34,
+            "productStyle": "WC7B165522",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Dark Rinse",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7B165522/Dark+Rinse/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B165522/Dark+Rinse/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WC7B165522/Dark+Rinse/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7B165522/Dark+Rinse/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7R335405_001",
+            "productName": "Crew Neck Sweater",
+            "productPrice": 29,
+            "productStyle": "WS7R335405",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R335405/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R335405/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Off+White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Blue+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Light+Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R335405/Navy+Mix/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7T275482_009",
+            "productName": "Knit Skirt",
+            "productPrice": 29,
+            "productStyle": "WS7T275482",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Dark Grey Mix",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/Dark+Grey+Mix/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T275482/Dark+Grey+Mix/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7T275482/Dark+Grey+Mix/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7T275482/Dark+Grey+Mix/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/Dark+Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7T275482/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7B145660_001",
+            "productName": "Seam Ponte Pant",
+            "productPrice": 39,
+            "productStyle": "WS7B145660",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B145660/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B145660/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7B145660/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B145660/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B145660/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B145660/Charcoal/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7F505044_219",
+            "productName": "Ankle Boot",
+            "productPrice": 59,
+            "productStyle": "WS7F505044",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Tan",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505044/Tan/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505044/Tan/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505044/Tan/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505044/Tan/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505044/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505044/Tan/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7C490016_100",
+            "productName": "Floral Scarf",
+            "productPrice": 16,
+            "productStyle": "WS7C490016",
+            "productBadgeString": "SALE",
+            "productColor": "White",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490016/White/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490016/White/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7C490016/White/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490016/White/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490016/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490016/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490016/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7F505052_001",
+            "productName": "Slip On Flat",
+            "productPrice": 24,
+            "productStyle": "WS7F505052",
+            "productBadgeString": "SALE",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7F505052/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505052/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7F505052/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7F505052/Black/T@2x.jpg"
+            }
+        },
+        {
+            "productId": "WS7K195957_816",
+            "productName": "Peplum Top",
+            "productPrice": 29,
+            "productStyle": "WS7K195957",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195957/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7K195957/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7K195957/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/Dusty+Blue/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/Light+Lilac/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7K195957/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W225729_816",
+            "productName": "Silk Peasant Blouse",
+            "productPrice": 59,
+            "productStyle": "WS7W225729",
+            "productBadgeString": "SALE",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225729/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225729/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W225729/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W225729/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225729/White+2/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W225729/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7W245722_816",
+            "productName": "Sleeveless Blouse",
+            "productPrice": 29,
+            "productStyle": "WS7W245722",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W245722/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W245722/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7W245722/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7W245722/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W245722/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7W245722/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7R365408_001",
+            "productName": "Contrast Cardi",
+            "productPrice": 39,
+            "productStyle": "WS7R365408",
+            "productBadgeString": "CLEARANCE",
+            "productColor": "Black",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365408/Black/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365408/Black/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7R365408/Black/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7R365408/Black/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365408/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7R365408/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7C490020_816",
+            "productName": "Stripe Knit Scarf",
+            "productPrice": 29,
+            "productStyle": "WS7C490020",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490020/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490020/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7C490020/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7C490020/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490020/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490020/Off+White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7C490020/JF+Midnight+Blue/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WC7K205973_531",
+            "productName": "Wavy Top",
+            "productPrice": 16,
+            "productStyle": "WC7K205973",
+            "productBadgeString": "NEW ARRIVAL",
+            "productColor": "Light Lilac",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205973/Light+Lilac/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7K205973/Light+Lilac/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WC7K205973/Light+Lilac/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WC7K205973/Light+Lilac/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205973/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205973/Light+Grey+Mix/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205973/White/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WC7K205973/Light+Lilac/DY.jpg"
+            ]
+        },
+        {
+            "productId": "WS7B145510_816",
+            "productName": "Faux Leather Pant",
+            "productPrice": 39,
+            "productStyle": "WS7B145510",
+            "productBadgeString": "SALE",
+            "productColor": "JF Midnight Blue",
+            "swatchImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B145510/JF+Midnight+Blue/DY.jpg",
+            "thumbnails": {
+                "b3": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B145510/JF+Midnight+Blue/T@2x.jpg",
+                "b2": "https://joefresh-resource-dev.joefresh.com/JF/b2/WS7B145510/JF+Midnight+Blue/T@2x.jpg",
+                "b4": "https://joefresh-resource-dev.joefresh.com/JF/b3/WS7B145510/JF+Midnight+Blue/T@2x.jpg"
+            },
+            "availableColors": [
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B145510/Black/DY.jpg",
+                "https://joefresh-resource-dev.joefresh.com/JF/b1/WS7B145510/JF+Midnight+Blue/DY.jpg"
+            ]
+        }
+    ]
+
+}

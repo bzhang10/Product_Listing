@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Product Listing</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div class="text-center">    
+    <h1>Product Listing</h1>
+    
+<select class="price-sorting" name="price-sorting">
+    <option selected disabled>Default</option>
+    <option value="l2h">Low to high</option>
+    <option value="a2z">A to Z</option>
+</select>
+
+</div>
+
+<div class="container"> 
+    <div class="row products-grid" id="product_list"></div>
+    <div>
+        <button type="button" id="loadMore" class="btn btn-primary btn-lg btn-block">Load More</button>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $.getJSON('product.json', function (jfData) {
+        $.each(jfData.results, function (i, results) {
+            var productItem = ('<div id="product'+i+'"' + 'class="listing text-center row">' 
+                                + '<h3>' + results.productBadgeString + '</h3>'
+                                + '<a href="#">' + '<img src=' + results.thumbnails.b2 + ' alt="Product' +i + '"></a>'
+                                + '<p> <span class="name">  <a href="#">' + results.productName + '</a> </span> </p>'
+                                + '<p><sup>$</sup>' + '<span class="price">' + results.productPrice + '</span> </p>'
+                                + '<p>Color: ' + results.productColor + '</p>'
+                                + '</div>');
+            $('#product_list').append(productItem);        
+        }); 
+    });
+});     
+
+
+$(document).ready(function () {
+    $('#product_list div.listing:lt(20)').show();   
+    var items = 80;
+    var shown = 20;
+    $('#loadMore').click(function () {
+        shown = $('#product_list div.listing:visible').size()+5;
+        if(shown< items) {$('#product_list div.listing:lt('+shown+')').show();}
+        else {$('#product_list div.listing:lt('+items+')').show();
+             $('#loadMore').hide();
+             }
+    });
+});
+/*If this works, the style on #product_list div.listing should be {display:none} on the CSS sheet */
+
+
+
+
+
+$(document).on("change", ".price-sorting", function() {
+    var sortingMethod = $(this).val();
+        if(sortingMethod == 'l2h')
+        {
+            var mylist = $('#product_list');
+            var listitems = mylist.children("div.listing");
+            listitems.sort(function(a, b) {
+                var compA = $(a).children('span.price').val();
+                var compB = $(b).children('span.price').val();
+                return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
+            })
+            $(mylist).append(listitems);
+        };
+
+        if(sortingMethod == 'a2z')
+        {
+            var mylist = $('#product_list');
+            var listitems = mylist.children("div.listing");
+            listitems.sort(function(a, b) {
+                var compA = $(a).children('span.name').text().toUpperCase();
+                var compB = $(b).children('span.name').text().toUpperCase();
+                return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
+            })
+            $(mylist).append(listitems);
+        }
+
+});
+
+</script>
+
+
+</body>
+</html>
