@@ -35,31 +35,37 @@ $(document).ready(function () {
     $.getJSON('product.json', function (jfData) {
         $.each(jfData.results, function (i, results) {
             var productItem = ('<div id="product'+i+'"' + 'class="listing text-center row">' 
-                                + '<h3>' + results.productBadgeString + '</h3>'
+                                + '<h3 class="productHeader">' + results.productBadgeString + '</h3>'
                                 + '<a href="#">' + '<img src=' + results.thumbnails.b2 + ' alt="Product' +i + '"></a>'
                                 + '<p> <span class="name">  <a href="#">' + results.productName + '</a> </span> </p>'
                                 + '<p><sup>$</sup>' + '<span class="price">' + results.productPrice + '</span> </p>'
                                 + '<p>Color: ' + results.productColor + '</p>'
                                 + '</div>');
-            $('#product_list').append(productItem);        
+            $('#product_list').append(productItem);
+            
+            $('#product_list div.listing').hide();
+            $('#product_list div.listing:lt(21)').show();  
         }); 
     });
 });     
 
 
 $(document).ready(function () {
-    $('#product_list div.listing:lt(20)').show();   
-    var items = 89;
-    var shown = 20;
-    $('#loadMore').click(function () {
-        shown = $('#product_list div.listing:visible').size()+5;
-        if(shown< items) {$('#product_list div.listing:lt('+shown+')').show();}
-        else {$('#product_list div.listing:lt('+items+')').show();
-             $('#loadMore').hide();
-             }
+            var items = 89;
+            var shown = 20;
+            $('#loadMore').click(function () {
+                var shown = $("#product_list div.listing:visible").length + 9;
+                if(shown < items) {
+                    $('#product_list div.listing:lt('+shown+')').show();
+                    }
+                else {
+                    $('#product_list div.listing:lt('+items+')').show();
+                    $('#loadMore').hide();
+                }
     });
+    
 });
-/*If this works, the style on #product_list div.listing should be {display:none} on the CSS sheet */
+
 
 
 
@@ -94,6 +100,27 @@ $(document).on("change", ".price-sorting", function() {
 });
 
 </script>
+
+<table>
+        <tr>
+            <th>
+                hello
+            </th>
+             <th>
+                 hi
+            </th>
+                         <th>
+                 hi
+            </th>
+        </tr>
+
+         <tr>
+            <td>Yeah</td>
+            <td>Oppose</td>
+            <td>Oppose</td>
+        </tr>
+</table>
+
 
 
 </body>
